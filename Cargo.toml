@@ -7,5 +7,5 @@ edition = "2021"
 
 [dependencies]
 hyprland = "0.3.13"
-sysinfo = "0.30.8"
-toml = "0.8.12"
+sysinfo = "0.30.13"
+toml = "0.8.15"
